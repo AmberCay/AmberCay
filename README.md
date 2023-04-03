@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmberCay, a transfemme web developer
 - 👀 I’m interested in environmetal issues, solutions and policies
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning full stack web development! 
 🐇🐇🐇🐇🐇🐇
 
 <!---
